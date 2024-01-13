@@ -9,9 +9,9 @@ profile:
   image: RongbinWang.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>100876</p>
-    <p>10 Xitucheng Road, Haidian District</p>
-    <p>Beijing, China</p>
+    <p>wangrongbin@bupt.edu.cn</p>
+    <p>18011103819</p>
+    <p>Beijing University of Posts and Telecommunications</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
