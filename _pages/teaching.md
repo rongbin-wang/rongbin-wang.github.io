@@ -2,12 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching Career in Mianyang Blueprint Education Institutions.
 nav: true
 nav_order: 7
 ---
 
-I am a member of the founding team of this educational institution, mainly responsible for leading teaching related affairs during the teaching period. 
+I am a member of the founding team of this educational institution, mainly responsible for leading teaching related affairs during the teaching period. The following are the courses I teach and my students.
 
 ## 2024 Winter
 Waiting for update...
