@@ -23,6 +23,8 @@ Waiting for update...
 
 **Senior 2 physics class**: Kerui Sun, Xin Song, Xinjue Cai, Haochen Huang
 
+**Senior 3 physics class**: Zhu Liang
+
 **Senior 1 chemistry class**: Jianjing Xiao
 
 **Senior 3 Mathematics class**: Shanshan Tang
