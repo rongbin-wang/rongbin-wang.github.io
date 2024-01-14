@@ -2,8 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Rongbin Wang # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Rongbin
+middle_name: h
 last_name: Wang
 email: wangrongbin@bupt.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
