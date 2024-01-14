@@ -1,44 +1,21 @@
 ---
 layout: post
-title: a post with jupyter notebook
-date: 2023-07-04 08:57:00-0400
-description: an example of a blog post with jupyter notebook
-tags: formatting jupyter
-categories: sample-posts
+title: 建站日志
+date: 2024-01-44 19:52:00-0400
+description: 建站日志
+tags: 记录
+categories: 记录
 giscus_comments: true
 related_posts: false
+featured: true
 ---
 
-To include a jupyter notebook in a post, you can use the following code:
+为了更好地展示自己与记录自己的生活，在22岁生日那天，我下定决心建立起一个个人网站，作为对内记录空间，对外展示天地。
+本网站同时服务于本人的学术发展道路与生活记录，作为本人的综合信息记录平台，我决定使用如下方式进行运作：
+# 1. 学术
 
-{% raw %}
 
-```html
-{::nomarkdown}
-{% assign jupyter_path = "assets/jupyter/blog.ipynb" | relative_url %}
-{% capture notebook_exists %}{% file_exists assets/jupyter/blog.ipynb %}{% endcapture %}
-{% if notebook_exists == "true" %}
-    {% jupyter_notebook jupyter_path %}
-{% else %}
-    <p>Sorry, the notebook you are looking for does not exist.</p>
-{% endif %}
-{:/nomarkdown}
-```
 
-{% endraw %}
-
-Let's break it down: this is possible thanks to [Jekyll Jupyter Notebook plugin](https://github.com/red-data-tools/jekyll-jupyter-notebook) that allows you to embed jupyter notebooks in your posts. It basically calls [`jupyter nbconvert --to html`](https://nbconvert.readthedocs.io/en/latest/usage.html#convert-html) to convert the notebook to an html page and then includes it in the post. Since [Kramdown](https://jekyllrb.com/docs/configuration/markdown/) is the default Markdown renderer for Jekyll, we need to surround the call to the plugin with the [::nomarkdown](https://kramdown.gettalong.org/syntax.html#extensions) tag so that it stops processing this part with Kramdown and outputs the content as-is.
-
-The plugin takes as input the path to the notebook, but it assumes the file exists. If you want to check if the file exists before calling the plugin, you can use the `file_exists` filter. This avoids getting a 404 error from the plugin and ending up displaying the main page inside of it instead. If the file does not exist, you can output a message to the user. The code displayed above outputs the following:
-
-{::nomarkdown}
-{% assign jupyter_path = "assets/jupyter/blog.ipynb" | relative_url %}
-{% capture notebook_exists %}{% file_exists assets/jupyter/blog.ipynb %}{% endcapture %}
-{% if notebook_exists == "true" %}
-    {% jupyter_notebook jupyter_path %}
-{% else %}
-    <p>Sorry, the notebook you are looking for does not exist.</p>
-{% endif %}
-{:/nomarkdown}
-
-Note that the jupyter notebook supports both light and dark themes.
+# 2. 生活
+我本人是不太喜欢发朋友圈的，因为
+为了记录一些个人想法和生活点滴，在**Life**板块下，我开通了**紫藤阁**博客板块，我将会把生活中值得记录的想法和瞬间展示在上面
