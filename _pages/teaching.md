@@ -9,7 +9,7 @@ nav_order: 7
 I am a member of the founding team of this educational institution, mainly responsible for leading teaching related affairs during the teaching period. The following are the courses I teach and my students.
 
 ## 2024 Winter
-Waiting for update...
+**Waiting for update...**
 ## 2023 Summer
 **Senior 2 Mathematics class**: Jianjing Xiao
 
@@ -70,6 +70,6 @@ Waiting for update...
         {% include figure.html path="assets/img/class5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/class6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/class0.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
