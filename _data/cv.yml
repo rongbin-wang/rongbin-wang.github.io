@@ -43,7 +43,7 @@
   contents:
     - title: Lab Intern
       institution: Beijing Key Lab of Intelligent Telecommunication Software and Multimedia
-      year: September 2023 - Present
+      year: 2023.9 - Present
       description:
         - My supervisor is Dr. Zheng Xiaolong. The academic leader of the laboratory is Dr. Ma Huadong.
         - Based on laboratory related research, I have completed the development of CTC communication decoding programs and system construction from Zigbee to Wifi.
@@ -54,7 +54,7 @@
 
     - title: Research Assistant
       institution: Beijing Orillusion Technology Co., Ltd
-      year: September 2022 - September 2023
+      year: 2022.9 - 2023.9
       description:
         - Utilizing the engine to combine software and hardware.
         - Working with the team to create demos.
@@ -63,7 +63,7 @@
 
     - title: Manage members
       institution: Mianyang Blueprint Plan Education Institution
-      year: January 2022 - Present
+      year: 2022.1 - Present
       description:
         - Refer to the *teaching* section for details.
 
@@ -73,11 +73,11 @@
     - year: 2023
       items: 
         - Second prize of the 15th Mathematics competition of Chinese College Students.
-        - Second Prize Scholarship
+        - Second Prize Scholarship of 2021-2022 Academic Year
     - year: 2022
       items: 
-        - Third prize of the 15th Mathematics competition of Chinese College Students.
-        - Second Prize Scholarship
+        - Third prize of the 14th Mathematics competition of Chinese College Students.
+        - Second Prize Scholarship of 2022-2023 Academic Year
         - The paper "Artistic Intelligence Brings New Opportunity to the Education Industry" was selected by the university to participate in the MIC "Simulation International Conference" and was included.
         - Third Prize of the "Chuyan Plan" Competition of BUPT
 
@@ -96,21 +96,21 @@
 - title: Representative projects
   type: time_table
   contents:
-    - title: 'Qiongyou': Hainan Tourism Exploration Assistant Based on WeChat Mini Program and Al
+    - title: 'Qiongyou' Hainan Tourism Exploration Assistant Based on WeChat Mini Program and Al
       institution: Project leader
-      year: June 2023 - Present
+      year: 2023.6 - Present
       description:
         - My role is Building Al models and WeChat mini programs, and leading the team.
     
-    - title: 'Yourong': Integrated Home Intelligent Control Platform
+    - title: 'Yourong' Integrated Home Intelligent Control Platform
       institution: Project co-leader
-      year: October 2022 - April 2023
+      year: 2022.10 - 2023.4
       description:
         - My role is Project planning, network communication, and WebGPU development.
     
     - title: 2022 Winter Vacation Training Camp of uinnova Technologies
       institution: Camper
-      year: January 2022
+      year: 2022.1
       description:
         - I learned to use ThingJS to build a digital twin platform for industrial parks.
         - During the participation period, I successfully completed the course tasks and final assessment, and obtained the Digital Twin Development Engineer (Junior) Certificate.
