@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /life/
-title: life
+permalink: /blog/
+title: blog
 nav: true
 nav_order: 5
 pagination:
