@@ -93,28 +93,6 @@
         - Intelligent sensing.
         - Embedded Development.
 
-- title: Representative projects
-  type: time_table
-  contents:
-    - title: 'Qiongyou' Hainan Tourism Exploration Assistant Based on WeChat Mini Program and Al
-      institution: Project leader
-      year: 2023.6 - Present
-      description:
-        - My role is Building Al models and WeChat mini programs, and leading the team.
-    
-    - title: 'Yourong' Integrated Home Intelligent Control Platform
-      institution: Project co-leader
-      year: 2022.10 - 2023.4
-      description:
-        - My role is Project planning, network communication, and WebGPU development.
-    
-    - title: 2022 Winter Vacation Training Camp of uinnova Technologies
-      institution: Camper
-      year: 2022.1
-      description:
-        - I learned to use ThingJS to build a digital twin platform for industrial parks.
-        - During the participation period, I successfully completed the course tasks and final assessment, and obtained the Digital Twin Development Engineer (Junior) Certificate.
-
 - title: Other Interests
   type: list
   contents:
