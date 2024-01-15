@@ -81,30 +81,19 @@
         - The paper "Artistic Intelligence Brings New Opportunity to the Education Industry" was selected by the university to participate in the MIC "Simulation International Conference" and was included.
         - Third Prize of the "Chuyan Plan" Competition of BUPT
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Wireless networking
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Cross-technology communication.
+        - Perception.
+    - title: Intelligent computing
       items:
-        - Description 1.
-        - Description 2.
+        - Intelligent sensing.
+        - Embedded Development.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Reading, Watching movies, etc.
