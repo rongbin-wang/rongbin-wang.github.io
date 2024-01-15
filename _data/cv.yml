@@ -96,15 +96,15 @@
 - title: Representative projects
   type: time_table
   contents:
-    - title: 'Qiongyou'-- Hainan Tourism Exploration Assistant Based on WeChat Mini Program and Al
+    - title: 'Qiongyou': Hainan Tourism Exploration Assistant Based on WeChat Mini Program and Al
       institution: Project leader
       year: June 2023 - Present
       description:
         - My role is Building Al models and WeChat mini programs, and leading the team.
     
-    - title: 'Yourong'-- Integrated Home Intelligent Control Platform
+    - title: 'Yourong': Integrated Home Intelligent Control Platform
       institution: Project co-leader
-      year: October 2022 -April 2023
+      year: October 2022 - April 2023
       description:
         - My role is Project planning, network communication, and WebGPU development.
     
