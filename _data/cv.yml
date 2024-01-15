@@ -11,22 +11,32 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Undergraduate
+      institution: Beijing University of Posts and Telecommunications
+      year: 2021 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Major in IoT.
+        - title: Post
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Class publicity committee member.
+    - title: High School
+      institution: Mianyang Nanshan High School
+      year: 2017 - 2021
       description:
-        - Description 1.
-        - Description 2.
+        - title: Post
+          contents:
+            - Class monitor.
+            - Class sports committee member.
+            - President of Drama Club.
+            - Station master of the college entrance examination workstation.(Serving during undergraduate studies)
+    - title: Middle School
+      institution: Mianyang Experimental Middle School
+      year: 2014 - 2017
+      description:
+        - title: Post
+          contents:
+            - President of the Student Union.
+            - Class monitor.
 
 - title: Experience
   type: time_table
