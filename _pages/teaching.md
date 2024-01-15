@@ -13,19 +13,19 @@ I am a member of the founding team of this educational institution, mainly respo
 ## 2023 Summer
 **Senior 2 Mathematics class**: Jianjing Xiao
 
-**Senior 2 physics class**: Chengkuan Li, Muyang Zheng
+**Senior 2 Physics class**: Chengkuan Li, Muyang Zheng
 
-**Senior 1 physics class**: Jiaxin Zheng, Yinghan Ge, Yijia Peng, Zhiqiang Wang, Haoxuan Wang
+**Senior 1 Physics class**: Jiaxin Zheng, Yinghan Ge, Yijia Peng, Zhiqiang Wang, Haoxuan Wang
 
 **Senior 2 Mathematics class**: Liefeng Song, Yuxuan He, Zhaoxiang Liu, Haoyang Peng, Yuheng Wang, Yuanweixin Liang
 ## 2023 Winter
 **Senior 1 Mathematics class**: Junfeng Chen, Zhaoxiang Liu, Shiru Gong, Chunbei Du
 
-**Senior 2 physics class**: Kerui Sun, Xin Song, Xinjue Cai, Haochen Huang
+**Senior 2 Physics class**: Kerui Sun, Xin Song, Xinjue Cai, Haochen Huang
 
-**Senior 3 physics class**: Zhu Liang
+**Senior 3 Physics class**: Zhu Liang
 
-**Senior 1 chemistry class**: Jianjing Xiao
+**Senior 1 Chemistry class**: Jianjing Xiao
 
 **Senior 3 Mathematics class**: Shanshan Tang
 ## 2022 Summer
@@ -37,9 +37,9 @@ I am a member of the founding team of this educational institution, mainly respo
 
 **Senior 1 Mathematics class**: Yifan Feng, Xinyu Wang, Liefeng Song, Siyu Xu, Yuheng Wang
 
-**Senior 3 chemistry class**: Zhu Liang
+**Senior 3 Chemistry class**: Zhu Liang
 
-**Senior 3 physics class**: Qihan Sun
+**Senior 3 Physics class**: Qihan Sun
 ## 2022 Winter
 **Senior 1 Mathematics class**: Ziyi Xu, Yifan Feng, Yuxuan He, Siyu Jiang, Zijie Wei
 
