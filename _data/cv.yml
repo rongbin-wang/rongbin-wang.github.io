@@ -11,16 +11,16 @@
 - title: Education
   type: time_table
   contents:
-    - title: Undergraduate
-      institution: Beijing University of Posts and Telecommunications
+    - title: Beijing University of Posts and Telecommunications
+      institution: Undergraduate
       year: 2021 - 2025
       description:
         - Major in IoT.
         - title: Post
           contents:
             - Class publicity committee member.
-    - title: High School
-      institution: Mianyang Nanshan High School
+    - title: Mianyang Nanshan High School of Sichuan Province
+      institution: High School
       year: 2017 - 2021
       description:
         - title: Post
@@ -29,8 +29,8 @@
             - Class sports committee member.
             - President of Drama Club.
             - Station master of the college entrance examination workstation.(Serving during undergraduate studies)
-    - title: Middle School
-      institution: Mianyang Experimental Middle School
+    - title: Mianyang Experimental Middle School of Sichuan Province
+      institution: Middle School
       year: 2014 - 2017
       description:
         - title: Post
@@ -41,8 +41,8 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Lab Intern
-      institution: Beijing Key Lab of Intelligent Telecommunication Software and Multimedia
+    - title: Beijing Key Lab of Intelligent Telecommunication Software and Multimedia
+      institution: Lab Intern
       year: 2023.9 - Present
       description:
         - My supervisor is Dr. Zheng Xiaolong. The academic leader of the laboratory is Dr. Ma Huadong.
@@ -52,8 +52,8 @@
           contents:
             - Wireless networking -- Cross-technology communication.
 
-    - title: Research Assistant
-      institution: Beijing Orillusion Technology Co., Ltd
+    - title: Beijing Orillusion Technology Co., Ltd
+      institution: Research Assistant
       year: 2022.9 - 2023.9
       description:
         - Utilizing the engine to combine software and hardware.
@@ -61,8 +61,8 @@
         - Writing engine documentation in both Chinese and English.
         - Translating the official English documents of W3C's WebGPU into Chinese.
 
-    - title: Manage members
-      institution: Mianyang Blueprint Plan Education Institution
+    - title: Mianyang Blueprint Plan Education Institution
+      institution: Manage members
       year: 2022.1 - Present
       description:
         - Refer to the teaching section for details.
