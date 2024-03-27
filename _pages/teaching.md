@@ -8,8 +8,22 @@ nav_order: 7
 ---
 I am a member of the founding team of this educational institution, mainly responsible for leading teaching related affairs during the teaching period. The following are the courses I teach and my students.
 
-## 2024 Winter
+## 2024 Summer
 **Waiting for update...**
+## 2024 Winter
+**Senior 2 Physics class**: Chengkuan Li, Muyang Zheng
+
+**Senior 2 Mathematics class**: Jianjing Xiao
+
+**Junior 3 Mathematics class**: Yuexi He, Xilin Luo, Xinyu He, Zikun Ren, Runchuan Yang, Xiaotong Li
+
+**Senior 1 Mathematics class**: Yunze Zhang, Langyue Yao, Lexi Xu, Yuhao Chen, Zhanhe Gu, Li Wang
+
+**Junior 3 Mathematics class**: Ziyue Sun, Xilin Luo, Xinyu He, Xiaotong Li
+
+**Senior 3 Mathematics class**: Yilang Guo
+
+**Senior 3 Physics class**: Zhuonan Xu
 ## 2023 Summer
 **Senior 2 Mathematics class**: Jianjing Xiao
 
