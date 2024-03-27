@@ -55,11 +55,11 @@ I am a member of the management team of this educational institution, mainly res
 
 **Senior 3 Physics class**: Qihan Sun
 ## 2022 Winter
-**Senior 1 Mathematics class**: Ziyi Xu, Yifan Feng, Yuxuan He, Siyu Jiang, Zijie Wei
+**Junior 3 Mathematics class**: Ziyi Xu, Yifan Feng, Yuxuan He, Siyu Jiang, Zijie Wei
 
 **Junior 1 Mathematics class**: Hangyu Li, Hongmin Li, Yuqiaochu Deng
 
-**Senior 1 Mathematics class**: Jinjing Liao, Jiayue Tang, Yongxin Zheng, Ruikang Chen, Ziling Qiu, Xinyu Wang
+**Junior 3 Mathematics class**: Jinjing Liao, Jiayue Tang, Yongxin Zheng, Ruikang Chen, Ziling Qiu, Xinyu Wang
 
 **Junior 1 Mathematics class**: Jue Wang, Jinrui Zhu, Haoyang Dong, Yuchen Zhu
 
