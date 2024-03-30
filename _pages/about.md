@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: RongbinWang.jpg
+  image: wrb.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>wangrongbin@bupt.edu.cn</p>
