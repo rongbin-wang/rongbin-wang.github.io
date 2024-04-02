@@ -21,7 +21,7 @@ I am a member of the management team of this educational institution, mainly res
 
 **Junior 3 Mathematics class**: Ziyue Sun, Xilin Luo, Xinyu He, Xiaotong Li
 
-**Senior 3 Mathematics class**: Yilang Guo
+**Senior 2 Mathematics class**: Yilang Guo
 
 **Senior 3 Physics class**: Zhuonan Xu
 ## 2023 Summer
