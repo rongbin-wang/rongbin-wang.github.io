@@ -2,7 +2,7 @@
 layout: page
 permalink: /albums/
 title: albums
-description: 光影之美，一瞬倾心
+description: 光影之美，一瞬倾心。初中及以前的照片请参见QQ空间相册
 nav: true
 nav_order: 6
 display_categories: [fun]
