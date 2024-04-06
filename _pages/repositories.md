@@ -2,7 +2,7 @@
 layout: page
 permalink: /albums/
 title: albums
-description: 生活中值得记录的点点滴滴
+description: 光影之美，一瞬倾心
 nav: true
 nav_order: 6
 display_categories: [fun]
