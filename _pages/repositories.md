@@ -2,7 +2,7 @@
 layout: page
 permalink: /albums/
 title: albums
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: 生活中值得记录的点点滴滴
 nav: true
 nav_order: 6
 display_categories: [fun]
