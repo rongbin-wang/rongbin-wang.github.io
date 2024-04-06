@@ -5,6 +5,7 @@ description: a project with no image
 img:
 importance: 4
 category: fun
+redirect: https://photo.baidu.com/photo/wap/albumShare/invite/jsEFOKyLz?from=linkShare
 ---
 
 Every project has a beautiful feature showcase page.
