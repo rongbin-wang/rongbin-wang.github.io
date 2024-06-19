@@ -37,20 +37,30 @@
           contents:
             - President of the Student Union.
             - Class monitor.
+    - title: Mianyang High tech Zone Torch Third Primary School
+      institution: Primary School
+      year: 2009 - 2014
+      description:
+        - title: Post
+          contents:
+            - Class monitor.
+    - title: Urumchi No.1 Primary School
+      institution: Primary School
+      year: 2008 - 2009
 
 - title: Experience
   type: time_table
   contents:
     - title: Beijing Key Lab of Intelligent Telecommunication Software and Multimedia
       institution: Lab Intern
-      year: 2023.9 - Present
+      year: 2023.9 - 2024.7
       description:
         - My supervisor is Dr. Zheng Xiaolong. The academic leader of the laboratory is Dr. Ma Huadong.
         - Based on laboratory related research, I have completed the development of CTC communication decoding programs and system construction from Zigbee to Wifi.
         - Currently, I am preparing for my research direction.
         - title: Research Direction.
           contents:
-            - Wireless networking -- Cross-technology communication.
+            - Wireless networking -- Cross-technology communication -- Satellite Internet of Things.
 
     - title: Beijing Orillusion Technology Co., Ltd
       institution: Research Assistant
@@ -73,11 +83,11 @@
     - year: 2023
       items: 
         - Second prize of the 15th Mathematics competition of Chinese College Students.
-        - Second Prize Scholarship of 2021-2022 Academic Year
+        - Second Prize Scholarship of 2022-2023 Academic Year
     - year: 2022
       items: 
         - Third prize of the 14th Mathematics competition of Chinese College Students.
-        - Second Prize Scholarship of 2022-2023 Academic Year
+        - Second Prize Scholarship of 2021-2022 Academic Year
         - The paper "Artistic Intelligence Brings New Opportunity to the Education Industry" was selected by the university to participate in the MIC "Simulation International Conference" and was included.
         - Third Prize of the "Chuyan Plan" Competition of BUPT
 
