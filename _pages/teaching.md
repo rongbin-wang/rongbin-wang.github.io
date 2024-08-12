@@ -8,8 +8,16 @@ nav_order: 7
 ---
 I am a member of the management team of this educational institution, mainly responsible for leading teaching related affairs during the teaching period. The following are the courses I teach and my students.
 
-## 2024 Summer
+## 2024 Winter
 **Waiting for update...**
+## 2024 Summer
+**Senior 3 Mathematics class**: Yuman Zhao, Anqi Dang, Siyu Li
+
+**Senior 1 Mathematics class**: Yuexi He, Xinyu He, Xiaotong Li, Yuhan Luo, Yijin He, Qingqing Yang
+
+**Senior 2 Mathematics class**: Li Wang, Xuanhao Wang, Yunyu Xie, Siyi Lai, Hao Wang, Huanyu Zheng
+
+**Senior 3 Mathematics class**: Xinyu Chen, Jinzhuo Li
 ## 2024 Winter
 **Senior 2 Physics class**: Chengkuan Li, Muyang Zheng
 
@@ -29,7 +37,7 @@ I am a member of the management team of this educational institution, mainly res
 
 **Senior 2 Physics class**: Chengkuan Li, Muyang Zheng
 
-**Senior 1 Physics class**: Jiaxin Zheng, Yinghan Ge, Yijia Peng, Zhiqiang Wang, Haoxuan Wang
+**Senior 1 Physics class**: Jiaxin Zheng, Yinghan Ge, Yijia Peng, Zhiqiang Wang, Xuanhao Wang
 
 **Senior 2 Mathematics class**: Liefeng Song, Yuxuan He, Zhaoxiang Liu, Haoyang Peng, Yuheng Wang, Yuanweixin Liang
 ## 2023 Winter
