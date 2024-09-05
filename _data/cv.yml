@@ -91,32 +91,33 @@
         - The paper "Artistic Intelligence Brings New Opportunity to the Education Industry" was selected by the university to participate in the MIC "Simulation International Conference" and was included.
         - Third Prize of the "Chuyan Plan" Competition of BUPT
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Wireless networking
-      items: 
-        - Cross-technology communication.
-        - Perception.
-    - title: Intelligent computing
-      items:
-        - Intelligent sensing.
-        - Embedded Development.
 
 - title: Representative projects
   type: time_table
   contents:
-    - title: Hainan Tourism Exploration Assistant Based on WeChat Mini Program and Al
+    - title: Satellite LoRa signal enhancement based on C-RAN
       institution: Project leader
-      year: 2023.6 - Present
+      year: 2024.3 - Present
       description:
-        - My role is Building Al models and WeChat mini programs, and leading the team.
+        - The project focuses on enhancing satellite LoRa signals based on C-RAN, aiming to develop an innovative integrated communication solution for space and earth using the Beijing Post-2 satellite. Combining the processing capabilities of C-RAN with the coverage advantages of satellite communication, it aims to enhance ground terminal signals, expand the communication range and reliability of IoT devices. The experimental platform has been built, based on the collection and processing of LoRa signals from low Earth orbit meteorological satellites. Multiple LoRaWAN gateways are used for coherent combination detection of weak signals that cannot be decoded on any single gateway.
     
+    - title: Cross technology Communication(CTC) Based on Channel Disturbance (Huawei Collaborative Research Project)
+      institution: Core team
+      year: 2023.9 - 2024.1
+      description:
+        - The project focuses on achieving direct communication between different communication technologies through channel perturbation. My job is to develop a communication decoding program that uses WiFi devices to sense signals emitted by ZigBee nodes based on existing research results, and optimize the bit error rate to below 10%. Based on technologies such as c-Chirp, I implement single channel and multi-channel decoding programs and improve the robustness of the system.
+
+    - title: Underwater perception and cross media communication
+      institution: Core team
+      year: 2024.4 - 2024.5
+      description:
+        - The project focuses on signal perception in complex deepwater environments and the perception of signals transmitted from underwater. I have completed the deployment of water and underwater experimental equipment and the signal transmission and reception work of USRP. I have also developed the front-end page of the signal receiving program based on nodejs+vue, developed the MySQL database, and coordinated the front-end and back-end debugging work.
+
     - title: Integrated Home Intelligent Control Platform
       institution: Project co-leader
       year: 2022.10 - 2023.4
       description:
-        - My role is Project planning, network communication, and WebGPU development.
+        - The project adopts ESP32, Node.js, and WebGPU technologies to achieve a cross platform, low-cost, and easy-to-use smart home solution. I have completed the development of communication hardware based on ESP32, as well as the development of servers and front-end 3D pages using Node.js and WebGPU.
     
     - title: 2022 Winter Vacation Training Camp of uinnova Technologies
       institution: Camper

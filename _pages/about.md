@@ -19,4 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an undergraduate student majoring in Internet of Things Engineering at Beijing University of Posts and Telecommunications, and I am currently in the stage of further education. I aspire to make achievements in the field of the Internet of Things.
+I am an undergraduate student majoring in Internet of Things Engineering at Beijing University of Posts and Telecommunications, and I am currently in the stage of further education. I aspire to make achievements in the field of computer related fields.
